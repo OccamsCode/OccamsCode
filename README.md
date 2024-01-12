@@ -1,6 +1,6 @@
 ## Hello 👋 
 
-I'm Brian, a passionate Senior/Lead iOS Developer based in the United Kingdom. I love building iOS applications and exploring new technologies.
+I'm Brian, a passionate Lead/Senior iOS Developer based in the United Kingdom. I love building iOS applications and exploring new technologies.
 
 ### 🚀 About Me
 
