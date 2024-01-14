@@ -36,6 +36,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.s
 
 ### 📊 Stats
 
-![OccamsCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=occamscode&show_icons=true&theme=gruvbox)
-
+![OccamsCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=occamscode&show_icons=true&theme=tokyonight)
+<!-- For more themes, visit - https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=OccamsCode&theme=gruvbox&border_radius=4.5) -->
