@@ -5,7 +5,7 @@ I'm Brian, a passionate Lead/Senior iOS Developer based in the United Kingdom. I
 ---
 
 ### 🧰 Languages and Tools
-
+<img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="Objective-C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
